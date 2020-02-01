@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas M. Porter II</title>
+    <link>https://thomasmporter.github.io/</link>
+    <description>Recent content on Thomas M. Porter II</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Aug 2019 06:26:52 -0700</lastBuildDate>
+    
+	<atom:link href="https://thomasmporter.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to install Encarta 96... on Windows 95... on DOSBox</title>
+      <link>https://thomasmporter.github.io/post/encarta-on-dosbox/</link>
+      <pubDate>Sun, 11 Aug 2019 06:26:52 -0700</pubDate>
+      
+      <guid>https://thomasmporter.github.io/post/encarta-on-dosbox/</guid>
+      <description>The song Still Alive in the Classic Valve game Portal has the lyric:
+ &amp;ldquo;We do what we must, because we can&amp;rdquo;
+ I can&amp;rsquo;t think of a better way to describe what I&amp;rsquo;m about to present.
+Nobody needs to run Encarta 96 in a virtualized Windows 95 environment, unless there is a very particular need to feel nostalgic for mid-1990s computing.
+So Then, Why Exactly? It started with a Tweet by @shanselman that got people taking about pre-internet Wikipedia, otherwise known as Microsoft Encarta:</description>
+    </item>
+    
+    <item>
+      <title>Who Put the Sec in DevSecOps</title>
+      <link>https://thomasmporter.github.io/post/who-put-the-sec/</link>
+      <pubDate>Sun, 04 Aug 2019 17:07:38 -0700</pubDate>
+      
+      <guid>https://thomasmporter.github.io/post/who-put-the-sec/</guid>
+      <description>A video about DevSecOps by yours truly!
+  My second video is up: “Who Put the Sec in DevSecOps” - the origin and use of the buzzword “DevSecOps” https://t.co/vjaQdIbBky #Buzzwords #DevSecOps
+&amp;mdash; Tom Porter “as Code” (@ThomasMPorterII) August 4, 2019  </description>
+    </item>
+    
+    <item>
+      <title>The Buzzword Economy</title>
+      <link>https://thomasmporter.github.io/post/the-buzzword-economy/</link>
+      <pubDate>Mon, 29 Jul 2019 17:07:38 -0700</pubDate>
+      
+      <guid>https://thomasmporter.github.io/post/the-buzzword-economy/</guid>
+      <description>A video about Buzzwords by yours truly!
+  I recorded the shorter version of one of the presentations I’ve pitched for a few calls for papers (it hasn’t been accepted yet 🙁). It’s not much, but hopefully the start of something: The Buzzword Economy https://t.co/p0hu6hW01g
+&amp;mdash; Tom Porter “as Code” (@ThomasMPorterII) July 30, 2019  </description>
+    </item>
+    
+    <item>
+      <title>Finally</title>
+      <link>https://thomasmporter.github.io/post/finally/</link>
+      <pubDate>Wed, 01 May 2019 18:26:52 -0700</pubDate>
+      
+      <guid>https://thomasmporter.github.io/post/finally/</guid>
+      <description>It took a hot minute, but I finally got an Azure Pipeline to deploy my hugo source to GitHub Pages.
+It isn&amp;rsquo;t pretty, and I&amp;rsquo;d like to write something without using pieced together marketplace tasks (if possible), but I&amp;rsquo;ll take what I can get for now!
+I hope I can use this as a way to test out and share knowledge.
+Here&amp;rsquo;s Hoping..</description>
+    </item>
+    
+    <item>
+      <title>Vs Launch Az</title>
+      <link>https://thomasmporter.github.io/post/vs-launch-az/</link>
+      <pubDate>Tue, 16 Apr 2019 16:34:14 -0700</pubDate>
+      
+      <guid>https://thomasmporter.github.io/post/vs-launch-az/</guid>
+      <description>Here are my sketch notes from the #VSLaunchAZ event I attended today.
+Lots of great info on new stuff to tide me over until //build.</description>
+    </item>
+    
+    <item>
+      <title>Why I Stuck With Roku After Trying FireTV</title>
+      <link>https://thomasmporter.github.io/post/why-i-stuck-with-roku-after-trying-firetv/</link>
+      <pubDate>Sun, 09 Jul 2017 19:46:17 -0700</pubDate>
+      
+      <guid>https://thomasmporter.github.io/post/why-i-stuck-with-roku-after-trying-firetv/</guid>
+      <description>TL;DR: Amazon FireTV is a great platform, but it does not have an (official) application to access our UltraViolet Library. Too much focus on Amazon content and Ads.
+Our household has been using Roku devices exclusively for many years. We recently we got the opportunity to see what it’s like to use an Amazon FireTV 2. I was curiously to see what we’ve been missing.
+As a background, we use quite a few services: Netflix, Hulu, Amazon Prime, Vudu, HBO Now, Starz, PlayStation Vue, and YouTubeRed.</description>
+    </item>
+    
+    <item>
+      <title>The Beginning</title>
+      <link>https://thomasmporter.github.io/post/the-beginning/</link>
+      <pubDate>Sat, 13 Aug 2016 18:36:04 -0700</pubDate>
+      
+      <guid>https://thomasmporter.github.io/post/the-beginning/</guid>
+      <description>So, I’ve been a Microsoft .NET programmer for over ten years.
+Ten years.
+In this decade of coding professionally:
+ I haven’t blogged about programming. I’ve barely tweeted about it. I haven’t contributed to one open source project. I haven’t answered one forum post or Stack Overflow question. I haven’t attended a local .NET user group.  I’m not bragging. Looking back, I wish I had done more outside of work.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://thomasmporter.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomasmporter.github.io/contact/</guid>
+      <description> Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
